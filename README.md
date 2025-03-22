@@ -1,3 +1,12 @@
+## 🔗 Live Demo
+
+👉 [Launch the Dashboard](https://startup-insights-dashboard-n5qb2vfno4pee3azmevwdi.streamlit.app/)
+
+Explore startup growth trends, unicorn predictions, and capital efficiency — live in your browser.
+
+
+
+
 # 📊 Startup Insights Dashboard
 
 An interactive dashboard that explores startup growth, funding patterns, and predicts potential unicorns using real-world-inspired data.
