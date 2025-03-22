@@ -8,7 +8,7 @@ from sklearn.preprocessing import MinMaxScaler
 st.set_page_config(page_title="Startup Insights Dashboard", layout="wide")
 
 # Load dataset
-df = pd.read_csv('../data/startup_data.csv')
+df = pd.read_csv('data/startup_data.csv')
 df.columns = df.columns.str.strip().str.replace(" ", "_").str.lower()
 
 # Derived columns
